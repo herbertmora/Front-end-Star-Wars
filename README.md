@@ -15,4 +15,3 @@ Si al realizar la descarga o clonacion del proyecto genera el error "An unhandle
 
 Gracias
 
-Prueba de conexion
