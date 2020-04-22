@@ -1,5 +1,7 @@
 {
     "githubPullRequests.remotes": [
-        "git@github.com:herbertmora/Front-End.git"
+        "git@github.com:herbertmora/Front-End.git",
+        "origin",
+        "upstream"
     ]
 }
